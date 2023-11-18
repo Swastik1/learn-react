@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.avatar {
+  margin: 20px;
+  border-radius: 50%;
+}
+
+
+.card {
+    width: fit-content;
+    margin:5px;
+    padding:5px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 25px;
+}
